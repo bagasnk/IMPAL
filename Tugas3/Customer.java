@@ -36,6 +36,7 @@ public class Customer {
     System.out.println("Alamat : " + Customer3.alamat);
     
     }
+    
     private String nama;
     private String id;
     private String alamat;
